@@ -1,0 +1,927 @@
+,PRIM_STATE,NAICS_TITLE,OCC_TITLE,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90
+0,US,Accommodation and Food Services,Other Production Occupations,24272,29696,37526,47470,61777
+1,NE,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29490,36826,54442,73478,100352
+2,US,Manufacturing,Construction and Extraction Occupations,34808,42310,54390,65326,89994
+3,US,Wholesale Trade,Material Moving Workers,28215,32471,38751,50072,59412
+4,US,Other Services (except Public Administration),Supervisors of Building and Grounds Cleaning and Maintenance Workers,30469,36261,46635,62766,73661
+5,US,"Professional, Scientific, and Technical Services",Occupational Health and Safety Specialists and Technicians,52235,62138,94123,132592,162501
+6,US,Construction,Food Preparation and Serving Related Occupations,20526,23664,30499,39148,48705
+7,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Educational Instruction and Library Occupations,36552,42884,54227,71173,91289
+8,NH,Cross-industry,"Farming, Fishing, and Forestry Occupations",24163,29158,32104,39354,49456
+9,US,Construction,Air Transportation Workers,50308,76746,112137,149062,172354
+10,US,"Mining, Quarrying, and Oil and Gas Extraction",Architecture and Engineering Occupations,55686,73024,95389,123918,152626
+11,US,Information,Supervisors of Office and Administrative Support Workers,41657,52110,63073,79212,96046
+12,US,"Professional, Scientific, and Technical Services",Production Occupations,26756,31071,41442,52976,71884
+13,US,"Arts, Entertainment, and Recreation",Computer and Mathematical Occupations,37710,46782,66296,93272,121902
+14,US,Utilities,Business Operations Specialists,61991,76451,92736,104449,118615
+15,US,Accommodation and Food Services,Food and Beverage Serving Workers,18616,21768,27546,32688,39186
+16,VT,Cross-industry,Management Occupations,48235,73683,100130,142496,191264
+17,US,Educational Services,Other Management Occupations,51235,64310,90474,121515,168316
+18,US,Transportation and Warehousing,Supervisors of Personal Care and Service Workers,29009,36590,47699,63848,84000
+19,SD,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,24264,29192,32526,38296,48212
+20,PA,Cross-industry,Healthcare Support Occupations,19938,23014,27134,32931,38734
+21,US,Construction,Water Transportation Workers,29778,36278,47108,59963,76204
+22,US,Administrative and Support and Waste Management and Remediation Services,Transportation and Material Moving Occupations,23227,27390,33059,42352,56047
+23,IN,Cross-industry,Production Occupations,23914,30010,38604,52116,66732
+24,OH,Cross-industry,Computer and Mathematical Occupations,39339,54224,78260,102280,130461
+25,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Entertainers and Performers, Sports and Related Workers",34347,44088,63746,83186,109436
+26,US,Health Care and Social Assistance,Other Healthcare Practitioners and Technical Occupations,31884,39778,54017,69158,82931
+27,US,Administrative and Support and Waste Management and Remediation Services,Art and Design Workers,27802,35320,47778,65954,95828
+28,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",46637,57374,72986,91713,105704
+29,US,"Agriculture, Forestry, Fishing and Hunting",Food Preparation and Serving Related Occupations,20252,24449,29748,35912,42788
+30,US,"Arts, Entertainment, and Recreation",Motor Vehicle Operators,23871,29068,38176,48434,71573
+31,AK,Cross-industry,"Farming, Fishing, and Forestry Occupations",29197,30013,32845,39500,50959
+32,US,Finance and Insurance,Computer and Mathematical Occupations,55988,68651,91160,124976,158640
+33,US,Utilities,Other Office and Administrative Support Workers,27580,33367,40486,56897,77849
+34,IN,Cross-industry,Community and Social Service Occupations,29086,36168,47040,61544,78647
+35,US,Utilities,Extraction Workers,44897,53658,73385,84363,106524
+36,HI,Cross-industry,Community and Social Service Occupations,30776,37680,48216,64730,77874
+37,US,Other Services (except Public Administration),Building Cleaning and Pest Control Workers,22773,27236,29780,31742,37766
+38,MT,Cross-industry,Management Occupations,46977,63134,95120,126478,187512
+39,US,Utilities,Life Scientists,72775,93736,106374,133110,154886
+40,US,Other Services (except Public Administration),"Material Recording, Scheduling, Dispatching, and Distributing Workers",25986,30586,39463,48592,60736
+41,CT,Cross-industry,Sales and Related Occupations,28614,30086,36472,57332,88392
+42,US,Accommodation and Food Services,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",53846,72186,94026,125577,169206
+43,TN,Cross-industry,Transportation and Material Moving Occupations,23224,28455,36192,46944,61154
+44,US,Utilities,Physical Scientists,58102,71226,94266,113328,136960
+45,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Legal Support Workers,47662,59239,75472,91594,103230
+46,US,Health Care and Social Assistance,Mathematical Science Occupations,49906,69688,94551,128024,168490
+47,US,Other Services (except Public Administration),Plant and System Operators,29720,38533,52394,70719,81058
+48,US,Utilities,Other Construction and Related Workers,49472,61310,89906,106453,131416
+49,US,"Professional, Scientific, and Technical Services","Textile, Apparel, and Furnishings Workers",20553,25988,29852,37325,47280
+50,US,Health Care and Social Assistance,Firefighting and Prevention Workers,34991,44542,58945,76944,94989
+51,HI,Cross-industry,"Installation, Maintenance, and Repair Occupations",35876,44574,63974,82906,92261
+52,US,Retail Trade,"Helpers, Construction Trades",25542,28673,31536,36548,45547
+53,US,Manufacturing,Healthcare Practitioners and Technical Occupations,40320,49518,77922,97230,108361
+54,US,Finance and Insurance,Printing Workers,32554,37102,43514,55226,65047
+55,US,Finance and Insurance,Business and Financial Operations Occupations,52316,62066,79144,100362,127106
+56,VA,Cross-industry,"Life, Physical, and Social Science Occupations",34559,44308,59276,79546,109288
+57,NM,Cross-industry,Personal Care and Service Occupations,21322,23301,27162,34431,45538
+58,US,Cross-industry,Transportation and Material Moving Occupations,25048,29463,36707,48498,61878
+59,US,Utilities,Architecture and Engineering Occupations,65211,78738,98331,119411,139888
+60,NJ,Cross-industry,Educational Instruction and Library Occupations,27874,37377,58150,75402,95222
+61,OR,Cross-industry,Legal Occupations,47546,60785,90455,125819,177006
+62,US,Cross-industry,Supervisors of Building and Grounds Cleaning and Maintenance Workers,30492,37596,47636,61334,77069
+63,US,Manufacturing,Healthcare Diagnosing or Treating Practitioners,47234,59943,108732,129613,144541
+64,IA,Cross-industry,Architecture and Engineering Occupations,42004,59052,78394,102490,131428
+65,US,Cross-industry,Sales and Related Occupations,23219,27502,35258,56437,80395
+66,US,"Professional, Scientific, and Technical Services",Legal Support Workers,45885,58079,68838,88204,115957
+67,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Practitioners and Technical Occupations,39222,50096,71339,104552,130395
+68,US,"Professional, Scientific, and Technical Services",Other Healthcare Practitioners and Technical Occupations,37936,48776,65882,78184,100277
+69,US,Construction,Other Personal Care and Service Workers,24070,31614,36371,45416,54444
+70,MT,Cross-industry,Food Preparation and Serving Related Occupations,21402,22173,24003,28972,35892
+71,FL,Cross-industry,"Farming, Fishing, and Forestry Occupations",23272,28456,30738,39012,49298
+72,TN,Cross-industry,Food Preparation and Serving Related Occupations,20936,22068,24300,28953,36292
+73,US,Retail Trade,Secretaries and Administrative Assistants,24323,29172,31903,39132,49012
+74,US,"Agriculture, Forestry, Fishing and Hunting",Air Transportation Workers,49140,69341,89034,132680,147323
+75,OK,Cross-industry,"Life, Physical, and Social Science Occupations",35959,45866,60423,80534,103658
+76,US,Utilities,"Drafters, Engineering Technicians, and Mapping Technicians",63596,77726,93576,105777,118125
+77,US,Retail Trade,Business Operations Specialists,30910,39088,50438,65198,87290
+78,US,Information,Other Construction and Related Workers,36169,46366,63505,93540,112601
+79,US,Wholesale Trade,Supervisors of Construction and Extraction Workers,45873,54879,70130,93368,115777
+80,US,Cross-industry,Other Protective Service Workers,25510,29644,34273,42214,50479
+81,AL,Cross-industry,Protective Service Occupations,23916,29840,41735,65526,85594
+82,US,Manufacturing,"Life, Physical, and Social Science Technicians",31816,37445,50674,65122,90381
+83,SC,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,19083,23124,28694,34573,41320
+84,US,Educational Services,Healthcare Practitioners and Technical Occupations,33486,43856,60972,88202,113918
+85,US,Real Estate and Rental and Leasing,"Drafters, Engineering Technicians, and Mapping Technicians",36184,43784,55060,68308,85416
+86,US,"Mining, Quarrying, and Oil and Gas Extraction",Art and Design Workers,39193,51924,70946,97268,135840
+87,US,Real Estate and Rental and Leasing,"Textile, Apparel, and Furnishings Workers",22131,26486,29841,36762,45419
+88,MS,Cross-industry,Legal Occupations,31018,46100,63542,103929,148150
+89,OR,Cross-industry,Business and Financial Operations Occupations,47768,60997,79107,103769,150975
+90,US,"Mining, Quarrying, and Oil and Gas Extraction",Grounds Maintenance Workers,26536,29971,35445,45871,52852
+91,US,Utilities,Media and Communication Workers,72620,93765,111334,138333,146136
+92,US,Real Estate and Rental and Leasing,Other Management Occupations,57296,72994,95543,122807,159841
+93,US,Finance and Insurance,Other Protective Service Workers,25186,30520,37234,52071,85299
+94,US,"Mining, Quarrying, and Oil and Gas Extraction",Agricultural Workers,24896,28994,33184,42594,48484
+95,US,"Professional, Scientific, and Technical Services",Other Construction and Related Workers,34072,44002,60492,70208,93880
+96,US,Construction,Healthcare Diagnosing or Treating Practitioners,46273,63114,109558,122751,146272
+97,US,Real Estate and Rental and Leasing,Mathematical Science Occupations,49682,59188,74437,93324,116144
+98,US,Educational Services,Material Moving Workers,22538,27412,33469,40362,50601
+99,ND,Cross-industry,Legal Occupations,41784,49339,66648,96677,136395
+100,US,Administrative and Support and Waste Management and Remediation Services,Material Moving Workers,24423,29276,32680,37047,45493
+101,US,Other Services (except Public Administration),Information and Record Clerks,24037,28613,33162,44476,59116
+102,US,"Mining, Quarrying, and Oil and Gas Extraction",Rail Transportation Workers,48816,61666,74682,94857,107690
+103,US,"Mining, Quarrying, and Oil and Gas Extraction",Business and Financial Operations Occupations,47900,61394,79738,109907,136130
+104,US,Management of Companies and Enterprises,Religious Workers,29068,37001,51618,58623,80756
+105,MO,Cross-industry,Protective Service Occupations,24032,30231,46514,62364,78578
+106,WY,Cross-industry,Personal Care and Service Occupations,18316,21806,25854,35385,47295
+107,MT,Cross-industry,"Farming, Fishing, and Forestry Occupations",23232,27926,30318,39272,54843
+108,RI,Cross-industry,"Installation, Maintenance, and Repair Occupations",37032,45518,64488,83344,92434
+109,NY,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,28314,29421,32873,40418,51135
+110,NY,Cross-industry,Computer and Mathematical Occupations,47117,61396,79143,101389,127665
+111,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Sales Workers,31248,39096,50469,65482,90867
+112,WA,Cross-industry,"Life, Physical, and Social Science Occupations",40978,57838,80858,114004,141544
+113,ID,Cross-industry,Sales and Related Occupations,21533,23244,29552,47601,77150
+114,IL,Cross-industry,Educational Instruction and Library Occupations,28386,36472,51904,76467,93903
+115,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Personal Appearance Workers,29038,43594,67726,90564,99084
+116,WA,Cross-industry,Sales and Related Occupations,30355,35396,45866,63046,86890
+117,SC,Cross-industry,Production Occupations,23944,29250,36987,47262,61236
+118,US,Other Services (except Public Administration),Metal Workers and Plastic Workers,29734,35961,45767,57980,74093
+119,NV,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",26040,33323,44913,62866,91916
+120,MN,Cross-industry,Office and Administrative Support Occupations,28542,34142,41938,49339,61189
+121,OK,Cross-industry,"Farming, Fishing, and Forestry Occupations",20969,24061,30831,38020,48994
+122,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Material Moving Workers,28200,32721,37957,47364,56051
+123,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Forest, Conservation, and Logging Workers",29572,39152,47894,58086,70674
+124,OK,Cross-industry,Personal Care and Service Occupations,18030,21543,24840,30810,41656
+125,MD,Cross-industry,"Installation, Maintenance, and Repair Occupations",32248,40432,57134,74879,101719
+126,US,Manufacturing,Supervisors of Sales Workers,31013,40915,56353,79178,105170
+127,US,Cross-industry,Building Cleaning and Pest Control Workers,21722,24631,29621,35924,44930
+128,US,Health Care and Social Assistance,Religious Workers,25959,30882,42412,53541,71322
+129,US,Manufacturing,Entertainment Attendants and Related Workers,18757,21886,26310,33545,46706
+130,US,Manufacturing,Other Healthcare Support Occupations,27880,35361,44444,52690,64048
+131,US,Educational Services,Other Sales and Related Workers,25092,32508,40472,57735,81626
+132,US,"Agriculture, Forestry, Fishing and Hunting",Grounds Maintenance Workers,23646,27408,32420,38264,47534
+133,US,Finance and Insurance,"Drafters, Engineering Technicians, and Mapping Technicians",69134,71806,77642,88418,94726
+134,GA,Cross-industry,Healthcare Support Occupations,20144,23478,28937,35133,42406
+135,US,"Agriculture, Forestry, Fishing and Hunting","Material Recording, Scheduling, Dispatching, and Distributing Workers",29055,34792,41817,50307,57735
+136,US,Construction,Financial Specialists,40327,52303,71113,93500,115950
+137,US,Cross-industry,Other Management Occupations,56254,71580,96960,129076,170158
+138,US,"Arts, Entertainment, and Recreation",Food and Beverage Serving Workers,19354,23256,28368,33270,41871
+139,MD,Cross-industry,Transportation and Material Moving Occupations,28066,31568,39788,54193,74663
+140,US,Educational Services,Operations Specialties Managers,54917,67444,92013,122540,160626
+141,US,Construction,Physical Scientists,44156,55600,73564,95368,116550
+142,US,Utilities,"Supervisors of Farming, Fishing, and Forestry Workers",57001,72489,90149,105276,118736
+143,US,Cross-industry,Healthcare Practitioners and Technical Occupations,37336,52553,72351,94569,137817
+144,MA,Cross-industry,Healthcare Support Occupations,29998,31263,35846,45010,56892
+145,US,Cross-industry,Social Scientists and Related Workers,48374,61523,81110,121929,172062
+146,US,Cross-industry,Supervisors of Production Workers,32498,39708,50095,66833,86016
+147,US,Administrative and Support and Waste Management and Remediation Services,Firefighting and Prevention Workers,30034,35303,52577,75696,90754
+148,US,Construction,Rail Transportation Workers,42035,48766,60722,75921,89699
+149,US,Information,Construction Trades Workers,31352,37688,48689,66408,80042
+150,US,Management of Companies and Enterprises,"Architects, Surveyors, and Cartographers",67783,97890,125187,136857,162082
+151,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Office and Administrative Support Workers,35999,45303,57396,72597,89656
+152,GA,Cross-industry,Transportation and Material Moving Occupations,22828,27872,32503,42429,57436
+153,US,Information,Other Food Preparation and Serving Related Workers,20682,22643,27502,31768,39320
+154,US,Real Estate and Rental and Leasing,"Material Recording, Scheduling, Dispatching, and Distributing Workers",27898,30250,35533,43408,53834
+155,DC,Cross-industry,Computer and Mathematical Occupations,59693,78179,119675,148142,180525
+156,US,Educational Services,"Architects, Surveyors, and Cartographers",46861,56593,71424,88018,108086
+157,UT,Cross-industry,Management Occupations,46917,68380,91672,131392,183352
+158,US,Wholesale Trade,"Counselors, Social Workers, and Other Community and Social Service Specialists",34426,37596,48456,60368,74289
+159,US,Retail Trade,"Entertainers and Performers, Sports and Related Workers",25858,34393,57099,93309,168114
+160,US,Construction,Business Operations Specialists,36788,48058,63200,80413,101117
+161,US,"Mining, Quarrying, and Oil and Gas Extraction","Life, Physical, and Social Science Technicians",32176,39564,52986,73254,97282
+162,KS,Cross-industry,"Installation, Maintenance, and Repair Occupations",28979,36318,46764,60194,76376
+163,US,Management of Companies and Enterprises,Business Operations Specialists,39271,48031,60501,84800,105781
+164,US,Utilities,Other Transportation Workers,32004,36769,49526,59870,77075
+165,IN,Cross-industry,Food Preparation and Serving Related Occupations,18385,21652,24713,29981,38183
+166,TX,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,19735,23091,27696,34340,41600
+167,US,Health Care and Social Assistance,Media and Communication Equipment Workers,30217,38155,48121,62789,83078
+168,US,Wholesale Trade,Production Occupations,29894,36428,45541,58013,73067
+169,US,"Agriculture, Forestry, Fishing and Hunting","Drafters, Engineering Technicians, and Mapping Technicians",31314,38428,47056,58790,73423
+170,US,Manufacturing,Health Technologists and Technicians,30294,34157,40539,52486,63481
+171,US,"Professional, Scientific, and Technical Services",Animal Care and Service Workers,30428,39366,50082,64576,82060
+172,US,Utilities,Supervisors of Protective Service Workers,60885,78068,96753,111739,130386
+173,NC,Cross-industry,Computer and Mathematical Occupations,44503,58727,81308,109566,136982
+174,SC,Cross-industry,Management Occupations,39453,58484,82040,123610,165845
+175,AK,Cross-industry,Healthcare Practitioners and Technical Occupations,42586,58782,77953,103124,156878
+176,KS,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,19570,23034,27666,34268,41631
+177,US,Manufacturing,Metal Workers and Plastic Workers,35892,41661,50222,63952,80064
+178,IL,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,23541,27114,30039,37427,46528
+179,US,Transportation and Warehousing,Assemblers and Fabricators,28477,35188,45642,60255,72392
+180,US,Educational Services,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",30567,34758,51882,68556,76341
+181,IL,Cross-industry,Community and Social Service Occupations,30095,38265,49908,64159,80401
+182,US,"Professional, Scientific, and Technical Services","Arts, Design, Entertainment, Sports, and Media Occupations",33030,40984,53084,68747,94606
+183,US,"Arts, Entertainment, and Recreation","Arts, Design, Entertainment, Sports, and Media Occupations",28804,32640,36761,46970,62699
+184,OH,Cross-industry,Educational Instruction and Library Occupations,23798,32824,46961,60230,78060
+185,US,Other Services (except Public Administration),Healthcare Support Occupations,24764,27938,33798,42345,53548
+186,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Plant and System Operators,42057,52312,65832,75872,92511
+187,US,Accommodation and Food Services,Computer Occupations,42418,54627,64820,85895,99047
+188,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Retail Sales Workers,22913,27704,32685,47386,57045
+189,OH,Cross-industry,Production Occupations,26039,29814,38831,50244,71135
+190,US,Wholesale Trade,Other Sales and Related Workers,30254,36466,49950,74456,107356
+191,US,Information,Occupational Health and Safety Specialists and Technicians,51656,66005,82813,107989,130565
+192,VA,Cross-industry,Production Occupations,26328,31196,39746,54026,71483
+193,KY,Cross-industry,Business and Financial Operations Occupations,36850,48068,65834,91463,119179
+194,IA,Cross-industry,"Farming, Fishing, and Forestry Occupations",20542,28250,33426,38425,50685
+195,US,Educational Services,"Installation, Maintenance, and Repair Occupations",29672,37274,45948,58078,72018
+196,US,Real Estate and Rental and Leasing,Office and Administrative Support Occupations,27682,30264,38595,50492,64398
+197,AL,Cross-industry,"Farming, Fishing, and Forestry Occupations",23261,28453,30642,38370,49673
+198,OR,Cross-industry,Transportation and Material Moving Occupations,30331,32736,40455,52504,68591
+199,US,Wholesale Trade,Construction Trades Workers,30883,38624,49396,66454,87974
+200,US,Cross-industry,Food Preparation and Serving Related Occupations,20498,23454,28536,32874,40040
+201,IN,Cross-industry,"Life, Physical, and Social Science Occupations",32692,43074,61440,81632,108456
+202,US,Finance and Insurance,"Supervisors of Installation, Maintenance, and Repair Workers",64667,80040,86524,106651,123519
+203,US,"Professional, Scientific, and Technical Services",Other Sales and Related Workers,28624,35258,51596,82274,122133
+204,CA,Cross-industry,Production Occupations,27907,32619,43500,58216,81529
+205,US,Wholesale Trade,Firefighting and Prevention Workers,38756,47162,57402,74892,88758
+206,US,"Professional, Scientific, and Technical Services",Healthcare Diagnosing or Treating Practitioners,47834,62048,94509,118308,142822
+207,US,Other Services (except Public Administration),"Installation, Maintenance, and Repair Occupations",28411,34606,44410,57086,71612
+208,US,Other Services (except Public Administration),Community and Social Service Occupations,29578,34061,42964,56100,72967
+209,GA,Cross-industry,"Life, Physical, and Social Science Occupations",36215,46361,61773,84281,109540
+210,NE,Cross-industry,Food Preparation and Serving Related Occupations,26533,28387,29882,36580,47814
+211,US,Educational Services,Postsecondary Teachers,55550,62048,74632,88819,102785
+212,WV,Cross-industry,Management Occupations,39040,58947,83230,124480,166742
+213,MT,Cross-industry,Computer and Mathematical Occupations,38389,50526,76615,100171,128284
+214,US,Retail Trade,Plant and System Operators,32272,39333,56904,76302,94062
+215,US,Educational Services,"Life, Physical, and Social Science Occupations",34192,43406,57252,78357,107848
+216,US,Educational Services,Supervisors of Sales Workers,29418,35616,48402,63339,84440
+217,US,Retail Trade,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",27466,30620,38475,49190,61450
+218,SD,Cross-industry,Community and Social Service Occupations,29992,37551,47486,63094,74511
+219,NV,Cross-industry,Food Preparation and Serving Related Occupations,17518,18894,21785,27090,33062
+220,US,"Professional, Scientific, and Technical Services",Metal Workers and Plastic Workers,34270,40364,49772,63078,75784
+221,US,Retail Trade,Occupational Health and Safety Specialists and Technicians,39852,48959,63161,78824,99630
+222,US,"Professional, Scientific, and Technical Services",Other Teachers and Instructors,27722,29637,35136,46811,60983
+223,US,Wholesale Trade,Supervisors of Building and Grounds Cleaning and Maintenance Workers,33095,41102,51924,67620,81415
+224,US,Administrative and Support and Waste Management and Remediation Services,Extraction Workers,27816,35558,43693,54910,71168
+225,US,Real Estate and Rental and Leasing,"Supervisors of Installation, Maintenance, and Repair Workers",52927,60498,76734,93964,111768
+226,CT,Cross-industry,"Installation, Maintenance, and Repair Occupations",33280,42398,61045,80902,112426
+227,US,Finance and Insurance,Transportation and Material Moving Occupations,28778,35164,45704,56955,74805
+228,GA,Cross-industry,"Installation, Maintenance, and Repair Occupations",28225,34644,45384,59133,75022
+229,US,Information,Retail Sales Workers,20106,24682,30182,40183,52435
+230,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Office and Administrative Support Workers,42914,53727,62416,77550,92712
+231,RI,Cross-industry,"Life, Physical, and Social Science Occupations",39981,53406,73027,98521,128775
+232,US,Health Care and Social Assistance,Other Sales and Related Workers,26646,33809,44707,70368,110065
+233,US,Accommodation and Food Services,Healthcare Support Occupations,23291,27866,30906,39168,52524
+234,US,Health Care and Social Assistance,Other Food Preparation and Serving Related Workers,19409,23140,28269,31567,37206
+235,US,"Agriculture, Forestry, Fishing and Hunting",Motor Vehicle Operators,23218,26314,31659,39120,47550
+236,TX,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",21652,30228,40927,62344,82263
+237,US,Real Estate and Rental and Leasing,Food Preparation and Serving Related Occupations,20538,23730,29564,37082,45624
+238,SC,Cross-industry,Community and Social Service Occupations,27935,36532,46194,57112,73100
+239,US,Administrative and Support and Waste Management and Remediation Services,Protective Service Occupations,24146,26615,31888,39819,50869
+240,US,"Arts, Entertainment, and Recreation",Other Food Preparation and Serving Related Workers,20383,24624,29289,35318,42898
+241,WA,Cross-industry,Transportation and Material Moving Occupations,31334,35344,44544,57962,76065
+242,US,Wholesale Trade,Other Office and Administrative Support Workers,24688,29876,37336,49111,60366
+243,WI,Cross-industry,Office and Administrative Support Occupations,24454,29710,37347,47176,59763
+244,US,Retail Trade,Media and Communication Equipment Workers,26988,32358,40576,52934,69881
+245,US,Information,Other Healthcare Practitioners and Technical Occupations,36300,45272,60660,81486,103793
+246,US,Manufacturing,Art and Design Workers,31214,50264,66704,89244,116566
+247,RI,Cross-industry,Protective Service Occupations,28487,36114,46877,60487,76037
+248,US,Wholesale Trade,Motor Vehicle Operators,30798,36728,45631,54850,67103
+249,US,Information,Material Moving Workers,27529,31436,40000,52375,61801
+250,ME,Cross-industry,Protective Service Occupations,30036,36740,51322,74136,95436
+251,NJ,Cross-industry,Construction and Extraction Occupations,31868,40291,54480,70598,91314
+252,US,Information,Air Transportation Workers,50964,65315,84503,108433,135739
+253,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Support Occupations,25713,29518,33543,43270,47795
+254,US,Retail Trade,Material Moving Workers,24083,28494,30910,34636,41980
+255,US,"Agriculture, Forestry, Fishing and Hunting",Woodworkers,28213,32360,36688,43790,50688
+256,US,"Arts, Entertainment, and Recreation","Architects, Surveyors, and Cartographers",34492,44051,62470,91821,119002
+257,US,Cross-industry,"Supervisors of Installation, Maintenance, and Repair Workers",50922,60955,78762,110282,148970
+258,US,"Arts, Entertainment, and Recreation",Other Sales and Related Workers,22195,26003,31180,39818,56264
+259,NE,Cross-industry,Sales and Related Occupations,27614,29953,37061,56800,88024
+260,US,"Professional, Scientific, and Technical Services","Sales Representatives, Services",31899,43912,60736,88394,121914
+261,US,Transportation and Warehousing,Personal Care and Service Occupations,23590,30345,38524,45676,60476
+262,US,Information,Building Cleaning and Pest Control Workers,23690,33071,43178,52355,69596
+263,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Media and Communication Workers,35506,44229,61500,79789,102018
+264,US,Retail Trade,Building and Grounds Cleaning and Maintenance Occupations,23303,27717,34477,41692,51966
+265,CA,Cross-industry,Office and Administrative Support Occupations,30188,36368,45338,58743,75780
+266,US,Cross-industry,"Librarians, Curators, and Archivists",31474,39958,53962,70583,89510
+267,US,Management of Companies and Enterprises,Material Moving Workers,26826,28738,32871,42441,57890
+268,ND,Cross-industry,Healthcare Support Occupations,26966,29342,34325,38045,47580
+269,US,"Arts, Entertainment, and Recreation","Sales Representatives, Wholesale and Manufacturing",27373,34945,47235,72344,105558
+270,US,Wholesale Trade,Media and Communication Workers,33997,44805,62979,89543,119622
+271,US,Accommodation and Food Services,Supervisors of Protective Service Workers,31173,39430,51595,63579,86695
+272,US,Educational Services,Animal Care and Service Workers,26196,32620,38015,48205,62122
+273,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Firefighting and Prevention Workers,42361,52616,66046,78674,95710
+274,CT,Cross-industry,Transportation and Material Moving Occupations,28775,31091,39224,55232,77926
+275,UT,Cross-industry,Personal Care and Service Occupations,18316,21806,25854,35385,47295
+276,ND,Cross-industry,Food Preparation and Serving Related Occupations,21228,23040,25898,31606,37619
+277,US,Cross-industry,"Sales Representatives, Wholesale and Manufacturing",32708,52558,68515,93859,120828
+278,US,Construction,Life Scientists,50500,64525,80521,99890,119672
+279,US,Educational Services,Media and Communication Workers,28514,38960,56598,73892,102432
+280,NE,Cross-industry,Community and Social Service Occupations,32798,38290,49093,62694,78686
+281,CT,Cross-industry,Business and Financial Operations Occupations,48417,62460,85988,120550,157320
+282,US,Other Services (except Public Administration),"Drafters, Engineering Technicians, and Mapping Technicians",32135,38158,47614,60147,76345
+283,AK,Cross-industry,Community and Social Service Occupations,36021,41640,56054,73610,94723
+284,US,Retail Trade,Healthcare Practitioners and Technical Occupations,33506,42118,59414,89204,114638
+285,PA,Cross-industry,Educational Instruction and Library Occupations,22759,29424,47304,61826,77298
+286,AL,Cross-industry,Personal Care and Service Occupations,18220,20426,25739,33760,48332
+287,US,Retail Trade,"Sales Representatives, Wholesale and Manufacturing",28322,37234,49895,73506,97368
+288,US,Real Estate and Rental and Leasing,Woodworkers,20325,22766,30196,37164,46772
+289,WV,Cross-industry,Computer and Mathematical Occupations,43079,57936,78334,107050,137036
+290,US,Transportation and Warehousing,Information and Record Clerks,27408,32342,39191,52327,63874
+291,US,"Agriculture, Forestry, Fishing and Hunting",Occupational Health and Safety Specialists and Technicians,39030,50600,69406,84450,106788
+292,IL,Cross-industry,Protective Service Occupations,26488,31232,45778,62456,83405
+293,US,Finance and Insurance,Motor Vehicle Operators,25790,31080,38578,50815,67023
+294,US,Administrative and Support and Waste Management and Remediation Services,Other Food Preparation and Serving Related Workers,20018,23661,27862,31418,37858
+295,US,Administrative and Support and Waste Management and Remediation Services,Agricultural Workers,22718,26840,30431,36384,43142
+296,US,Information,Community and Social Service Occupations,38170,48316,62391,86486,107476
+297,US,Health Care and Social Assistance,"Textile, Apparel, and Furnishings Workers",23390,27001,30009,36552,44922
+298,US,Administrative and Support and Waste Management and Remediation Services,Information and Record Clerks,23468,26208,31358,39468,51841
+299,MD,Cross-industry,Construction and Extraction Occupations,33756,42474,59912,78790,105261
+300,KS,Cross-industry,Protective Service Occupations,23665,29908,40752,54163,70722
+301,US,Educational Services,Religious Workers,28006,33956,37752,64610,140424
+302,US,Accommodation and Food Services,"Sales Representatives, Wholesale and Manufacturing",28847,45414,64078,79162,102492
+303,US,Manufacturing,Other Construction and Related Workers,35705,45407,58557,74904,103328
+304,US,Finance and Insurance,Sales and Related Occupations,32964,40726,58197,76047,93782
+305,US,"Agriculture, Forestry, Fishing and Hunting",Other Transportation Workers,20204,24244,29434,34303,43448
+306,OH,Cross-industry,Sales and Related Occupations,22597,23394,29084,43163,75356
+307,RI,Cross-industry,Educational Instruction and Library Occupations,30333,38720,58401,75697,94060
+308,US,Management of Companies and Enterprises,Other Educational Instruction and Library Occupations,23698,29980,55566,73784,94149
+309,UT,Cross-industry,"Installation, Maintenance, and Repair Occupations",30655,37070,47468,61372,78632
+310,US,Administrative and Support and Waste Management and Remediation Services,Retail Sales Workers,20439,23354,28391,31878,39430
+311,US,Information,Plant and System Operators,57934,70322,89386,108140,127746
+312,US,Finance and Insurance,Engineers,75516,84436,102166,129086,158200
+313,US,Cross-industry,"Forest, Conservation, and Logging Workers",28580,34253,40903,51170,63185
+314,WI,Cross-industry,"Life, Physical, and Social Science Occupations",34802,45644,61254,81048,112097
+315,US,Retail Trade,"Supervisors of Installation, Maintenance, and Repair Workers",39149,54980,70201,86498,109040
+316,US,Manufacturing,Plant and System Operators,41078,49867,58901,73896,90506
+317,US,Educational Services,Protective Service Occupations,24677,31166,41750,54272,70445
+318,US,Retail Trade,Production Occupations,23958,28343,34979,47900,68949
+319,ID,Cross-industry,Legal Occupations,38325,54454,75388,124505,187367
+320,US,Wholesale Trade,Entertainment Attendants and Related Workers,18732,23078,26880,33999,46226
+321,MA,Cross-industry,Personal Care and Service Occupations,28562,29744,34130,44630,59210
+322,US,"Professional, Scientific, and Technical Services","Life, Physical, and Social Science Occupations",36933,47518,64299,96234,135858
+323,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Material Recording, Scheduling, Dispatching, and Distributing Workers",30116,37392,46807,56908,68872
+324,CO,Cross-industry,Office and Administrative Support Occupations,28647,33813,42451,55188,70466
+325,MO,Cross-industry,Architecture and Engineering Occupations,44760,59791,77657,100114,128022
+326,US,Construction,Media and Communication Workers,31564,44574,61456,90762,124342
+327,US,Health Care and Social Assistance,Grounds Maintenance Workers,21244,26878,31168,38068,47210
+328,US,"Arts, Entertainment, and Recreation",Physical Scientists,38822,47922,66148,94547,128327
+329,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Production Workers,35070,39488,51134,69541,93728
+330,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Personal Care and Service Workers,29114,36124,45115,59792,73310
+331,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Construction and Related Workers,32662,44959,62545,87346,119262
+332,US,Retail Trade,Information and Record Clerks,24462,27986,34948,45607,64368
+333,US,"Professional, Scientific, and Technical Services",Secretaries and Administrative Assistants,26465,31706,37673,46011,57486
+334,CA,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,29293,30057,33229,41384,53364
+335,AK,Cross-industry,Food Preparation and Serving Related Occupations,27998,29428,30699,38379,48399
+336,US,Management of Companies and Enterprises,"Drafters, Engineering Technicians, and Mapping Technicians",41346,44499,51541,64159,72085
+337,US,"Arts, Entertainment, and Recreation",Food Preparation and Serving Related Occupations,21315,25690,30778,37288,44661
+338,LA,Cross-industry,Computer and Mathematical Occupations,40127,55806,75461,103774,128125
+339,PA,Cross-industry,Community and Social Service Occupations,28598,36626,48405,60792,71814
+340,WI,Cross-industry,Computer and Mathematical Occupations,48596,70676,93287,121237,153128
+341,US,"Agriculture, Forestry, Fishing and Hunting",Material Moving Workers,23622,28276,33248,39441,49096
+342,US,Retail Trade,"Material Recording, Scheduling, Dispatching, and Distributing Workers",24559,28835,37162,47100,63698
+343,ID,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",23904,30867,41125,61482,84580
+344,DE,Cross-industry,Community and Social Service Occupations,30319,40808,55726,72512,91941
+345,US,Accommodation and Food Services,Supervisors of Building and Grounds Cleaning and Maintenance Workers,25160,27954,35452,51108,62947
+346,US,Construction,Supervisors of Sales Workers,34276,40995,51790,71348,95878
+347,US,Health Care and Social Assistance,Printing Workers,28918,33854,40636,49439,56149
+348,US,"Mining, Quarrying, and Oil and Gas Extraction",Mathematical Science Occupations,51258,66980,91454,120748,149778
+349,SC,Cross-industry,Personal Care and Service Occupations,17730,21348,26026,34434,47896
+350,US,Wholesale Trade,Educational Instruction and Library Occupations,39586,47709,60391,81890,114498
+351,US,Finance and Insurance,Other Educational Instruction and Library Occupations,25798,31182,55032,72824,93523
+352,US,Information,Sales and Related Occupations,33650,41681,58162,75972,98082
+353,HI,Cross-industry,Office and Administrative Support Occupations,28173,31298,39274,49112,65502
+354,IN,Cross-industry,Educational Instruction and Library Occupations,25549,36128,50026,72323,84867
+355,US,Management of Companies and Enterprises,Other Transportation Workers,31164,34082,37948,41390,48775
+356,MS,Cross-industry,Management Occupations,39040,58947,83230,124480,166742
+357,FL,Cross-industry,Healthcare Practitioners and Technical Occupations,35662,51850,68192,87939,131388
+358,US,Wholesale Trade,Secretaries and Administrative Assistants,25570,31856,38910,47862,59619
+359,US,Finance and Insurance,Other Transportation Workers,32669,34958,40937,47539,56734
+360,CO,Cross-industry,Transportation and Material Moving Occupations,27681,31452,39594,53579,74150
+361,VA,Cross-industry,Food Preparation and Serving Related Occupations,18516,20108,23800,29620,37306
+362,US,"Agriculture, Forestry, Fishing and Hunting","Supervisors of Installation, Maintenance, and Repair Workers",43111,53002,66909,90228,108432
+363,VT,Cross-industry,Personal Care and Service Occupations,22175,24478,29375,37134,48153
+364,MI,Cross-industry,Healthcare Support Occupations,26655,28846,33379,37774,47086
+365,US,Administrative and Support and Waste Management and Remediation Services,Secretaries and Administrative Assistants,23236,28928,31226,38444,47574
+366,US,Accommodation and Food Services,"Textile, Apparel, and Furnishings Workers",22957,26837,29774,36096,44789
+367,WI,Cross-industry,Architecture and Engineering Occupations,45218,60908,83020,111460,144580
+368,US,Management of Companies and Enterprises,Supervisors of Production Workers,52130,58382,72999,83214,104657
+369,US,Other Services (except Public Administration),Tour and Travel Guides,23288,25640,35860,43210,53311
+370,US,Other Services (except Public Administration),Food Preparation and Serving Related Occupations,20555,24324,29642,35455,41758
+371,US,Cross-industry,Media and Communication Workers,32320,41145,54042,71918,92263
+372,US,Information,"Librarians, Curators, and Archivists",36348,45854,60649,79915,94954
+373,AL,Cross-industry,Educational Instruction and Library Occupations,23488,33442,48221,69448,79197
+374,US,"Arts, Entertainment, and Recreation",Media and Communication Equipment Workers,28456,33942,43018,59521,82850
+375,US,"Professional, Scientific, and Technical Services",Information and Record Clerks,28219,34806,43497,52750,69651
+376,US,"Agriculture, Forestry, Fishing and Hunting",Supervisors of Transportation and Material Moving Workers,33818,40650,51462,62993,74636
+377,US,Transportation and Warehousing,Tour and Travel Guides,25546,30743,36510,49396,55398
+378,US,Utilities,Construction Trades Workers,42058,49773,70802,88300,112070
+379,US,Construction,Mathematical Science Occupations,49582,64502,94145,128138,153018
+380,US,Health Care and Social Assistance,Healthcare Practitioners and Technical Occupations,40242,49688,63959,80558,110108
+381,US,Transportation and Warehousing,Water Transportation Workers,34572,45930,70773,95712,120170
+382,KS,Cross-industry,Transportation and Material Moving Occupations,22899,28524,34962,45624,60624
+383,US,"Professional, Scientific, and Technical Services",Other Protective Service Workers,25898,30794,36930,52258,64702
+384,IN,Cross-industry,Healthcare Support Occupations,23272,27963,29896,37260,45398
+385,US,Educational Services,Mathematical Science Occupations,47884,58218,75738,92499,115778
+386,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Law Enforcement Workers,30998,36965,50029,66554,88475
+387,US,"Professional, Scientific, and Technical Services","Installation, Maintenance, and Repair Occupations",33979,42866,54787,68406,86682
+388,US,Wholesale Trade,Financial Specialists,43160,54979,73841,96497,118896
+389,US,Accommodation and Food Services,"Sales Representatives, Services",31154,38796,56096,80130,113887
+390,US,Transportation and Warehousing,Retail Sales Workers,22715,27336,31412,45782,53412
+391,MI,Cross-industry,"Installation, Maintenance, and Repair Occupations",31544,38686,48778,62668,80504
+392,US,Wholesale Trade,Other Protective Service Workers,24016,29438,36506,47387,57920
+393,US,Cross-industry,Information and Record Clerks,27054,30255,40274,51474,70723
+394,US,Cross-industry,Food and Beverage Serving Workers,20714,23336,28309,32158,38724
+395,US,Administrative and Support and Waste Management and Remediation Services,"Arts, Design, Entertainment, Sports, and Media Occupations",28628,35490,43060,53554,74170
+396,US,"Arts, Entertainment, and Recreation",Secretaries and Administrative Assistants,22680,26592,30196,38375,50739
+397,US,Manufacturing,Agricultural Workers,28198,32634,38959,46144,59390
+398,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Construction and Extraction Workers,37852,48205,71385,104122,135952
+399,US,Health Care and Social Assistance,"Sales Representatives, Services",29208,38794,55766,74990,106288
+400,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Healthcare Practitioners and Technical Occupations,38352,48900,71854,107642,130894
+401,NV,Cross-industry,Educational Instruction and Library Occupations,23488,33442,48221,69448,79197
+402,US,Accommodation and Food Services,Information and Record Clerks,24123,28015,33960,42315,56598
+403,KY,Cross-industry,Healthcare Practitioners and Technical Occupations,32834,44457,61744,89010,128592
+404,US,Wholesale Trade,"Drafters, Engineering Technicians, and Mapping Technicians",41799,54710,69950,85126,99710
+405,US,Wholesale Trade,Other Teachers and Instructors,29090,33732,44744,59024,76092
+406,AL,Cross-industry,Healthcare Practitioners and Technical Occupations,36080,56324,74784,97958,132070
+407,OH,Cross-industry,Healthcare Support Occupations,22915,26074,29036,35095,43366
+408,US,Manufacturing,Water Transportation Workers,31524,36217,50514,66116,91617
+409,MO,Cross-industry,Legal Occupations,37010,47354,69594,112438,149174
+410,US,"Arts, Entertainment, and Recreation","Preschool, Elementary, Middle, Secondary, and Special Education Teachers",24994,35376,52436,68379,85939
+411,VA,Cross-industry,Legal Occupations,32366,44842,62307,104475,145933
+412,US,Other Services (except Public Administration),"Sales Representatives, Services",32371,42132,56000,74176,106210
+413,TN,Cross-industry,Production Occupations,26102,29780,37567,48038,64841
+414,US,Construction,Computer Occupations,46352,61222,79523,105382,131718
+415,US,Real Estate and Rental and Leasing,"Installation, Maintenance, and Repair Occupations",29484,35598,47078,57926,73651
+416,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Office and Administrative Support Workers,31455,39928,51539,67236,84002
+417,US,Manufacturing,Motor Vehicle Operators,29288,33508,40262,47526,57446
+418,US,Educational Services,Construction and Extraction Occupations,31926,40199,48937,61744,77314
+419,WI,Cross-industry,Production Occupations,26756,32492,42683,60327,78466
+420,NJ,Cross-industry,Protective Service Occupations,27762,31325,44897,62817,89986
+421,MD,Cross-industry,Community and Social Service Occupations,31899,39355,55445,74284,94269
+422,NJ,Cross-industry,Sales and Related Occupations,22909,25886,32914,54150,81703
+423,CT,Cross-industry,"Life, Physical, and Social Science Occupations",43062,56444,73048,95272,124790
+424,US,Finance and Insurance,Building and Grounds Cleaning and Maintenance Occupations,25348,31439,39324,57382,82543
+425,US,Manufacturing,Business Operations Specialists,34404,45894,62783,81532,102835
+426,US,"Mining, Quarrying, and Oil and Gas Extraction",Motor Vehicle Operators,29325,36808,46508,57688,73484
+427,IL,Cross-industry,Construction and Extraction Occupations,33652,37958,48033,62282,79376
+428,US,"Arts, Entertainment, and Recreation",Other Teachers and Instructors,25570,28928,31764,41968,57731
+429,US,Retail Trade,Computer and Mathematical Occupations,42401,54933,73796,102168,118452
+430,US,Other Services (except Public Administration),"Counselors, Social Workers, and Other Community and Social Service Specialists",28556,36660,50646,66304,90510
+431,IN,Cross-industry,Construction and Extraction Occupations,30466,37486,46220,58791,73228
+432,US,Health Care and Social Assistance,Financial Specialists,43281,58591,76903,100244,136316
+433,TX,Cross-industry,Healthcare Practitioners and Technical Occupations,34958,47002,62108,83843,128798
+434,US,Educational Services,Supervisors of Transportation and Material Moving Workers,35200,42164,53314,65859,77648
+435,US,Management of Companies and Enterprises,Other Healthcare Practitioners and Technical Occupations,36622,45424,58023,76685,96988
+436,AR,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",27559,32038,48244,76239,123097
+437,MI,Cross-industry,Construction and Extraction Occupations,35061,38472,48096,61672,78811
+438,US,Wholesale Trade,Health Technologists and Technicians,29691,33751,41482,51700,64592
+439,AK,Cross-industry,Architecture and Engineering Occupations,55808,71863,93367,119138,145214
+440,US,Information,Other Personal Care and Service Workers,21427,24338,30512,38414,48235
+441,US,Educational Services,Firefighting and Prevention Workers,31536,42774,55760,75040,88620
+442,ME,Cross-industry,Architecture and Engineering Occupations,55000,69961,87708,110305,133461
+443,NV,Cross-industry,Legal Occupations,36405,46760,68561,121087,169792
+444,US,Accommodation and Food Services,Building and Grounds Cleaning and Maintenance Occupations,22213,27004,30624,39126,49980
+445,CT,Cross-industry,"Farming, Fishing, and Forestry Occupations",28458,29804,35257,45198,59252
+446,US,"Arts, Entertainment, and Recreation",Building and Grounds Cleaning and Maintenance Occupations,20938,25487,29592,37554,45311
+447,MA,Cross-industry,Healthcare Practitioners and Technical Occupations,41152,57708,76936,103223,154350
+448,US,Transportation and Warehousing,Construction and Extraction Occupations,36382,46216,60598,78638,98487
+449,US,Information,Building and Grounds Cleaning and Maintenance Occupations,26316,33114,37977,48952,57602
+450,US,Accommodation and Food Services,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",32038,36240,46008,58754,73570
+451,US,Accommodation and Food Services,"Other Installation, Maintenance, and Repair Occupations",26326,33454,42142,54198,69800
+452,US,Wholesale Trade,Business and Financial Operations Occupations,44424,55642,71289,91523,112250
+453,US,"Professional, Scientific, and Technical Services",Material Moving Workers,27704,29973,33410,40238,50572
+454,US,Manufacturing,Protective Service Occupations,27336,34535,43526,56182,77134
+455,VT,Cross-industry,"Life, Physical, and Social Science Occupations",37847,50056,68754,92563,120078
+456,MD,Cross-industry,Protective Service Occupations,28722,35350,51306,74755,96327
+457,US,Cross-industry,Material Moving Workers,21363,27250,30833,38070,48110
+458,WY,Cross-industry,"Installation, Maintenance, and Repair Occupations",32668,37888,48310,62660,77806
+459,US,"Arts, Entertainment, and Recreation",Rail Transportation Workers,32303,39979,53712,71830,103225
+460,VT,Cross-industry,"Installation, Maintenance, and Repair Occupations",34206,41346,50134,63174,79363
+461,WY,Cross-industry,Educational Instruction and Library Occupations,28512,37114,52345,69648,91839
+462,US,Construction,Operations Specialties Managers,61096,78354,100559,129288,164834
+463,US,Educational Services,Life Scientists,43134,49088,62455,81007,103858
+464,US,Other Services (except Public Administration),Material Moving Workers,24362,30081,33487,38589,48719
+465,US,Accommodation and Food Services,Supervisors of Office and Administrative Support Workers,36744,46826,59260,70818,86722
+466,NE,Cross-industry,Production Occupations,27681,32522,42396,57825,81308
+467,PA,Cross-industry,Construction and Extraction Occupations,28548,33440,41239,49968,63660
+468,US,Construction,"Textile, Apparel, and Furnishings Workers",22922,29163,32888,39434,48812
+469,US,Retail Trade,Other Management Occupations,45664,59822,87576,118969,176564
+470,LA,Cross-industry,Personal Care and Service Occupations,18864,21072,24402,30788,45080
+471,SC,Cross-industry,Protective Service Occupations,23260,29475,38974,52864,68627
+472,US,Wholesale Trade,Supervisors of Transportation and Material Moving Workers,36929,44132,52110,63417,76426
+473,US,Management of Companies and Enterprises,Agricultural Workers,25555,27678,34348,41727,50024
+474,OK,Cross-industry,"Installation, Maintenance, and Repair Occupations",27888,35323,46580,60296,76884
+475,US,Construction,Construction and Extraction Occupations,30358,37498,47450,60244,76863
+476,US,Retail Trade,Computer Occupations,40168,50506,66014,85600,107130
+477,US,Accommodation and Food Services,Transportation and Material Moving Occupations,22814,26556,32491,42794,55654
+478,US,Transportation and Warehousing,Supervisors of Construction and Extraction Workers,53736,68230,89984,114342,138403
+479,OR,Cross-industry,Educational Instruction and Library Occupations,32620,44242,65148,88318,110074
+480,US,Transportation and Warehousing,Transportation and Material Moving Occupations,30325,36392,45929,59464,75684
+481,US,Other Services (except Public Administration),Supervisors of Office and Administrative Support Workers,31932,39711,51054,66660,85561
+482,US,Administrative and Support and Waste Management and Remediation Services,Personal Care and Service Occupations,21944,23975,29339,36130,45982
+483,US,"Arts, Entertainment, and Recreation",Air Transportation Workers,45551,50272,65182,85620,122418
+484,AK,Cross-industry,Educational Instruction and Library Occupations,32161,41691,62177,90388,110568
+485,US,Cross-industry,Supervisors of Office and Administrative Support Workers,36366,44910,58384,74790,93167
+486,US,Finance and Insurance,"Life, Physical, and Social Science Occupations",52696,69064,88858,113151,140063
+487,US,Information,Motor Vehicle Operators,26316,36874,54424,72209,84504
+488,US,Health Care and Social Assistance,Supervisors of Office and Administrative Support Workers,35211,42274,54390,69968,86342
+489,NM,Cross-industry,"Farming, Fishing, and Forestry Occupations",24828,28599,30036,37614,51960
+490,US,Cross-industry,Animal Care and Service Workers,28384,36076,46473,59673,76740
+491,OR,Cross-industry,Personal Care and Service Occupations,29670,30077,35091,45676,60709
+492,IA,Cross-industry,Healthcare Support Occupations,21746,23614,28816,35959,41244
+493,US,"Arts, Entertainment, and Recreation",Construction Trades Workers,26440,31336,38432,47946,64624
+494,US,Other Services (except Public Administration),Other Healthcare Support Occupations,25304,29976,37654,47941,59562
+495,KY,Cross-industry,Community and Social Service Occupations,27754,34340,43884,56322,71414
+496,US,Information,Educational Instruction and Library Occupations,38156,55188,78230,109626,144660
+497,KY,Cross-industry,Construction and Extraction Occupations,28916,34784,43922,56164,72272
+498,MS,Cross-industry,"Installation, Maintenance, and Repair Occupations",26629,32526,44188,57615,73604
+499,US,Utilities,Plant and System Operators,65180,81812,101341,113069,131933
+500,US,Transportation and Warehousing,"Baggage Porters, Bellhops, and Concierges",24951,28049,33480,44949,49940
+501,US,Management of Companies and Enterprises,Other Sales and Related Workers,32714,42300,57488,77743,103824
+502,US,Health Care and Social Assistance,Other Teachers and Instructors,25070,29206,33121,41178,56109
+503,PA,Cross-industry,"Installation, Maintenance, and Repair Occupations",28803,36204,46559,60099,76488
+504,US,Real Estate and Rental and Leasing,"Architects, Surveyors, and Cartographers",44933,61280,81283,102766,127958
+505,OH,Cross-industry,Management Occupations,46910,63082,96096,128128,193284
+506,US,"Arts, Entertainment, and Recreation",Sales and Related Occupations,22106,25896,32445,45668,61940
+507,US,Construction,"Installation, Maintenance, and Repair Occupations",30864,37838,47846,60524,76691
+508,US,Transportation and Warehousing,Postsecondary Teachers,51326,59362,76475,99144,128187
+509,US,Educational Services,Air Transportation Workers,47884,58218,75738,92499,115778
+510,US,Administrative and Support and Waste Management and Remediation Services,Postsecondary Teachers,38042,48366,66300,89212,115171
+511,MT,Cross-industry,Sales and Related Occupations,23029,25302,31660,46955,71749
+512,NV,Cross-industry,Architecture and Engineering Occupations,42357,59646,78964,107883,136585
+513,VT,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,25172,29072,34048,38812,48053
+514,CA,Cross-industry,Healthcare Practitioners and Technical Occupations,41418,57998,77654,103682,154918
+515,US,Health Care and Social Assistance,Supervisors of Building and Grounds Cleaning and Maintenance Workers,30888,38531,48632,62154,76625
+516,NE,Cross-industry,Personal Care and Service Occupations,26241,28239,30204,39788,57091
+517,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Educational Instruction and Library Occupations,31690,41404,61844,77920,92441
+518,US,Wholesale Trade,"Arts, Design, Entertainment, Sports, and Media Occupations",31310,39136,57459,77012,117650
+519,VA,Cross-industry,Business and Financial Operations Occupations,38088,48894,63626,90626,122296
+520,US,Health Care and Social Assistance,Community and Social Service Occupations,31439,41700,55508,70675,84670
+521,US,Management of Companies and Enterprises,Building Cleaning and Pest Control Workers,23470,30244,43192,57392,74977
+522,IA,Cross-industry,Community and Social Service Occupations,29084,36685,46913,58498,73710
+523,US,Utilities,Motor Vehicle Operators,30442,35362,43008,51835,67019
+524,US,"Mining, Quarrying, and Oil and Gas Extraction",Metal Workers and Plastic Workers,41152,49956,61661,76600,82271
+525,US,"Professional, Scientific, and Technical Services",Supervisors of Transportation and Material Moving Workers,35226,43176,54514,68688,82374
+526,US,Health Care and Social Assistance,Other Management Occupations,56254,71580,96960,129076,170158
+527,OR,Cross-industry,Healthcare Support Occupations,29772,33833,36206,44978,55964
+528,US,"Agriculture, Forestry, Fishing and Hunting",Other Management Occupations,49704,65657,90196,118741,167353
+529,US,Health Care and Social Assistance,Architecture and Engineering Occupations,46496,61961,84510,109439,138136
+530,US,Management of Companies and Enterprises,Production Occupations,30366,35364,44626,60205,86494
+531,TX,Cross-industry,"Farming, Fishing, and Forestry Occupations",20196,27616,33272,38647,50972
+532,US,Educational Services,Legal Support Workers,36976,44643,55788,72313,96564
+533,CA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29450,35432,48801,73891,96262
+534,US,Wholesale Trade,Office and Administrative Support Occupations,28190,31322,39715,49034,61103
+535,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Tour and Travel Guides,23484,28581,34795,44832,56054
+536,US,Other Services (except Public Administration),"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",25256,33660,50389,69299,93062
+537,US,Finance and Insurance,Supervisors of Sales Workers,37560,48430,65926,100932,157124
+538,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Building Cleaning and Pest Control Workers,23852,28876,36791,47019,58748
+539,US,Administrative and Support and Waste Management and Remediation Services,Other Protective Service Workers,22880,26927,31263,36672,43675
+540,US,Accommodation and Food Services,Motor Vehicle Operators,22226,27118,31579,40240,54907
+541,US,"Arts, Entertainment, and Recreation",Financial Specialists,40759,52996,72737,95732,125866
+542,US,Finance and Insurance,Supervisors of Transportation and Material Moving Workers,42702,53986,67342,82946,102182
+543,US,Health Care and Social Assistance,Other Healthcare Support Occupations,29228,33365,40826,50976,57667
+544,US,Construction,Building Cleaning and Pest Control Workers,22691,26824,30481,37094,44492
+545,US,"Agriculture, Forestry, Fishing and Hunting",Cooks and Food Preparation Workers,19916,23821,29244,35672,40439
+546,US,Health Care and Social Assistance,Other Transportation Workers,22514,25411,29607,33548,44151
+547,WY,Cross-industry,"Life, Physical, and Social Science Occupations",34550,45010,61204,81188,112681
+548,US,"Arts, Entertainment, and Recreation","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",34431,42784,59020,82485,120448
+549,AZ,Cross-industry,Educational Instruction and Library Occupations,29166,37576,52600,74188,85210
+550,US,Construction,Entertainment Attendants and Related Workers,18752,22032,26670,33664,46286
+551,US,Health Care and Social Assistance,"Supervisors of Installation, Maintenance, and Repair Workers",46470,60072,78668,108693,139432
+552,US,Cross-industry,"Entertainers and Performers, Sports and Related Workers",26708,36809,50470,71852,100284
+553,WY,Cross-industry,Protective Service Occupations,25450,32604,47614,66736,84222
+554,US,Cross-industry,Postsecondary Teachers,51542,63374,87100,116996,145452
+555,MS,Cross-industry,Educational Instruction and Library Occupations,21744,33089,47304,59594,73347
+556,US,Management of Companies and Enterprises,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",43317,51208,58240,74586,96750
+557,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Healthcare Support Occupations,24949,29319,32397,40321,44207
+558,US,Wholesale Trade,Architecture and Engineering Occupations,45960,60831,81768,108786,133182
+559,US,Accommodation and Food Services,Animal Care and Service Workers,23819,29106,34618,44568,58718
+560,US,Wholesale Trade,Personal Care and Service Occupations,20378,24652,30460,40760,51888
+561,US,Cross-industry,Law Enforcement Workers,31690,38620,49070,63020,82495
+562,US,Cross-industry,"Installation, Maintenance, and Repair Occupations",29869,37779,48929,63142,82654
+563,ND,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29285,33731,43679,56735,77222
+564,US,Information,"Sales Representatives, Services",39224,53162,74042,103200,138718
+565,US,Management of Companies and Enterprises,"Sales Representatives, Services",33233,41332,54929,78976,124511
+566,US,Utilities,Other Sales and Related Workers,41856,51938,73079,88309,117164
+567,US,Administrative and Support and Waste Management and Remediation Services,Communications Equipment Operators,24762,30332,35054,40015,51198
+568,US,Administrative and Support and Waste Management and Remediation Services,Metal Workers and Plastic Workers,31568,40407,52940,67654,82959
+569,KS,Cross-industry,Business and Financial Operations Occupations,38464,50336,71209,93575,121444
+570,VA,Cross-industry,Construction and Extraction Occupations,35896,42376,54352,71152,80079
+571,US,"Professional, Scientific, and Technical Services",Supervisors of Food Preparation and Serving Workers,27145,32924,43030,53973,67372
+572,US,Information,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",40059,47128,54775,70237,93588
+573,US,Real Estate and Rental and Leasing,Water Transportation Workers,30255,37074,50150,69690,91644
+574,WY,Cross-industry,Healthcare Support Occupations,22638,26932,29608,36856,44974
+575,AR,Cross-industry,Healthcare Practitioners and Technical Occupations,35860,48575,69268,91995,139184
+576,PA,Cross-industry,Healthcare Practitioners and Technical Occupations,34037,48538,65354,91181,130326
+577,VT,Cross-industry,Architecture and Engineering Occupations,43503,53244,77584,100992,128426
+578,US,"Professional, Scientific, and Technical Services",Media and Communication Equipment Workers,32386,38504,50673,67710,96980
+579,CT,Cross-industry,Healthcare Support Occupations,28362,29362,36264,41210,52458
+580,US,"Arts, Entertainment, and Recreation",Supervisors of Building and Grounds Cleaning and Maintenance Workers,27552,35603,47029,60686,86708
+581,US,Educational Services,Health Technologists and Technicians,31108,34554,42927,53336,65404
+582,OR,Cross-industry,Architecture and Engineering Occupations,54065,70445,99998,130169,161565
+583,US,Health Care and Social Assistance,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",23060,27578,30171,36368,40790
+584,MN,Cross-industry,Community and Social Service Occupations,30072,37740,48224,68678,77417
+585,US,Real Estate and Rental and Leasing,"Arts, Design, Entertainment, Sports, and Media Occupations",29966,37498,48086,60574,82751
+586,US,Retail Trade,"Life, Physical, and Social Science Technicians",25258,29621,41668,58366,82909
+587,US,"Mining, Quarrying, and Oil and Gas Extraction",Construction Trades Workers,45456,59075,77538,106667,129258
+588,US,Information,Health Technologists and Technicians,34934,38716,47731,60290,77910
+589,US,Manufacturing,Financial Specialists,38173,54748,74526,97611,127706
+590,MS,Cross-industry,"Life, Physical, and Social Science Occupations",33978,44776,60382,79868,108466
+591,US,"Arts, Entertainment, and Recreation",Assemblers and Fabricators,22972,25996,29600,37952,48492
+592,KY,Cross-industry,Computer and Mathematical Occupations,42222,55228,76905,104376,130529
+593,US,Management of Companies and Enterprises,Supervisors of Personal Care and Service Workers,27896,34851,48843,64199,86057
+594,RI,Cross-industry,Production Occupations,29309,34314,39291,49184,59749
+595,NE,Cross-industry,Healthcare Support Occupations,26372,27878,33029,37807,46439
+596,US,Health Care and Social Assistance,Protective Service Occupations,23815,28444,39058,51063,70318
+597,US,Real Estate and Rental and Leasing,Community and Social Service Occupations,33346,39985,51815,66043,79300
+598,IA,Cross-industry,Legal Occupations,38333,54514,76172,125186,189752
+599,US,Utilities,Other Protective Service Workers,26530,31978,39112,54579,81609
+600,US,Information,"Drafters, Engineering Technicians, and Mapping Technicians",44618,53558,72247,96509,112348
+601,US,Administrative and Support and Waste Management and Remediation Services,Community and Social Service Occupations,29942,34511,43626,56672,79130
+602,MO,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,22526,23502,28712,34374,43289
+603,SD,Cross-industry,Healthcare Support Occupations,26738,29234,33005,37760,47472
+604,US,Retail Trade,"Librarians, Curators, and Archivists",26660,34319,46253,51266,76437
+605,US,Construction,Protective Service Occupations,27452,33905,41922,53722,74132
+606,US,Management of Companies and Enterprises,Communications Equipment Operators,25378,27504,30094,41066,56732
+607,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Sales and Related Workers,38636,49188,68150,91651,115375
+608,HI,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29448,37191,52802,69824,100572
+609,MI,Cross-industry,"Farming, Fishing, and Forestry Occupations",23633,29403,35237,43940,54711
+610,TN,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,22340,23720,29493,36813,46105
+611,US,Real Estate and Rental and Leasing,"Other Installation, Maintenance, and Repair Occupations",29230,34641,46778,56298,71414
+612,US,Educational Services,Other Construction and Related Workers,28095,36908,50590,66305,88756
+613,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Building and Grounds Cleaning and Maintenance Workers,29043,35350,43603,56542,77364
+614,NC,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",21914,30678,42214,63434,83568
+615,US,"Agriculture, Forestry, Fishing and Hunting",Metal Workers and Plastic Workers,33689,41867,53446,66067,78040
+616,AR,Cross-industry,Food Preparation and Serving Related Occupations,21388,22283,24479,29358,36133
+617,DC,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,31793,34364,39825,49408,66556
+618,AK,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29792,35413,50213,73505,97426
+619,US,"Professional, Scientific, and Technical Services","Sales Representatives, Wholesale and Manufacturing",32047,43060,60134,87271,115650
+620,NE,Cross-industry,"Farming, Fishing, and Forestry Occupations",28128,29318,33126,40573,52734
+621,US,Real Estate and Rental and Leasing,Supervisors of Production Workers,34706,43300,56763,80601,100515
+622,VT,Cross-industry,Legal Occupations,42080,49418,67704,98949,136757
+623,US,Manufacturing,"Sales Representatives, Wholesale and Manufacturing",33156,45442,63182,92447,121679
+624,MN,Cross-industry,Legal Occupations,40920,47890,67289,96878,134438
+625,US,"Mining, Quarrying, and Oil and Gas Extraction",Construction and Extraction Occupations,36617,46378,60173,77741,97797
+626,US,Construction,"Baggage Porters, Bellhops, and Concierges",27956,30472,36904,39974,44925
+627,AL,Cross-industry,Sales and Related Occupations,21404,23172,29556,47228,75788
+628,NV,Cross-industry,Computer and Mathematical Occupations,40220,58130,78950,104622,132954
+629,MA,Cross-industry,Educational Instruction and Library Occupations,32614,44256,65178,89110,111286
+630,NH,Cross-industry,Transportation and Material Moving Occupations,24010,29342,36970,47050,60263
+631,TN,Cross-industry,Personal Care and Service Occupations,21388,22746,26607,34510,47279
+632,US,Construction,Supervisors of Protective Service Workers,42833,53694,76885,94192,111467
+633,ND,Cross-industry,Construction and Extraction Occupations,30377,39096,45446,56623,75872
+634,CO,Cross-industry,Protective Service Occupations,27819,34483,49256,69972,89497
+635,US,Educational Services,"Sales Representatives, Services",32560,41345,57326,78842,112456
+636,US,Transportation and Warehousing,"Sales Representatives, Wholesale and Manufacturing",38594,54118,74948,103078,137144
+637,PA,Cross-industry,Sales and Related Occupations,21842,23188,29526,47086,75336
+638,IA,Cross-industry,Healthcare Practitioners and Technical Occupations,33948,46982,63128,88360,129684
+639,US,Wholesale Trade,Food Processing Workers,29946,34716,40290,48141,57739
+640,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Supervisors of Transportation and Material Moving Workers,41033,48416,57088,68638,82140
+641,US,"Mining, Quarrying, and Oil and Gas Extraction",Office and Administrative Support Occupations,30572,37576,47130,60868,70602
+642,MO,Cross-industry,Construction and Extraction Occupations,31350,38588,49310,63999,78898
+643,US,Educational Services,Financial Specialists,36761,50032,63145,82399,104508
+644,US,"Mining, Quarrying, and Oil and Gas Extraction","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",43922,53650,72684,95364,112214
+645,US,Construction,Animal Care and Service Workers,29433,37972,48265,61996,77737
+646,CO,Cross-industry,Computer and Mathematical Occupations,49522,70872,93562,120764,150290
+647,US,Utilities,Grounds Maintenance Workers,27981,31729,39420,51006,68619
+648,MN,Cross-industry,Business and Financial Operations Occupations,44649,57022,74591,97028,123572
+649,US,Real Estate and Rental and Leasing,Animal Care and Service Workers,28422,36641,45937,59302,74216
+650,GA,Cross-industry,Construction and Extraction Occupations,28776,33242,41998,53531,68735
+651,US,Real Estate and Rental and Leasing,Supervisors of Sales Workers,29024,36400,50533,65723,89490
+652,US,Construction,Supervisors of Transportation and Material Moving Workers,37326,44826,55132,69427,85432
+653,WV,Cross-industry,Architecture and Engineering Occupations,43222,59336,77902,103605,140038
+654,NE,Cross-industry,Business and Financial Operations Occupations,45892,58801,75349,98818,126532
+655,NJ,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",28319,36417,50444,75643,113210
+656,US,"Arts, Entertainment, and Recreation","Electrical and Electronic Equipment Mechanics, Installers, and Repairers",29004,34160,44256,58097,77236
+657,US,Manufacturing,Operations Specialties Managers,61096,78354,100559,129288,164834
+658,AZ,Cross-industry,Healthcare Support Occupations,28280,29290,32930,37150,44732
+659,US,"Professional, Scientific, and Technical Services",Personal Appearance Workers,31790,33776,36895,44747,48871
+660,US,Cross-industry,Architecture and Engineering Occupations,46262,62242,83278,107763,133960
+661,VT,Cross-industry,Construction and Extraction Occupations,31052,37955,43714,52484,66197
+662,US,"Arts, Entertainment, and Recreation",Management Occupations,45174,59477,92646,130308,192448
+663,WY,Cross-industry,Transportation and Material Moving Occupations,23205,29047,37064,47730,61206
+664,US,Wholesale Trade,Business Operations Specialists,69430,88244,106046,119044,126690
+665,US,Administrative and Support and Waste Management and Remediation Services,Health Technologists and Technicians,27209,32886,39679,50508,63701
+666,NY,Cross-industry,Architecture and Engineering Occupations,55000,69961,87708,110305,133461
+667,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Other Management Occupations,62229,80236,104571,135418,173153
+668,US,Other Services (except Public Administration),Transportation and Material Moving Occupations,23935,28992,34025,42899,58444
+669,US,"Mining, Quarrying, and Oil and Gas Extraction",Food Preparation and Serving Related Occupations,25380,30618,37038,43820,52160
+670,US,Utilities,Office and Administrative Support Occupations,34471,43954,61016,73696,88542
+671,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Production Workers,43395,55102,69882,87922,107584
+672,OR,Cross-industry,Construction and Extraction Occupations,37786,47639,61403,83305,105009
+673,US,Administrative and Support and Waste Management and Remediation Services,Grounds Maintenance Workers,23928,28346,31292,37216,44761
+674,US,Cross-industry,Metal Workers and Plastic Workers,26369,33115,45949,64875,77992
+675,US,Accommodation and Food Services,Educational Instruction and Library Occupations,27261,35850,53808,71685,94280
+676,LA,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,18950,20183,24138,29866,37631
+677,US,Accommodation and Food Services,Other Personal Care and Service Workers,20117,23268,28760,34250,42944
+678,NY,Cross-industry,"Installation, Maintenance, and Repair Occupations",34672,44209,62899,82312,116732
+679,US,Educational Services,Funeral Service Workers,32168,40612,48142,60330,78514
+680,US,Other Services (except Public Administration),Other Protective Service Workers,25861,28968,31982,37812,47076
+681,ID,Cross-industry,"Installation, Maintenance, and Repair Occupations",29088,36744,47025,59993,76272
+682,OK,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,19086,23213,28644,32178,39359
+683,US,Manufacturing,Financial Clerks,29100,36476,44588,54740,62780
+684,TN,Cross-industry,Construction and Extraction Occupations,31330,38987,49919,64894,79064
+685,US,Cross-industry,Motor Vehicle Operators,23792,27284,31338,39048,47672
+686,LA,Cross-industry,Legal Occupations,31018,46100,63542,103929,148150
+687,MD,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,27716,29179,35574,43187,55029
+688,US,Health Care and Social Assistance,Construction and Extraction Occupations,29999,37272,47296,61314,81210
+689,US,Transportation and Warehousing,"Other Installation, Maintenance, and Repair Occupations",36754,46200,60352,77584,96155
+690,NY,Cross-industry,Production Occupations,27278,31602,43470,57961,81122
+691,US,Real Estate and Rental and Leasing,Financial Clerks,28603,33479,37044,45851,57828
+692,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Management Occupations,43130,57550,85686,119382,174281
+693,US,"Mining, Quarrying, and Oil and Gas Extraction","Supervisors of Installation, Maintenance, and Repair Workers",49402,62290,78363,97836,121056
+694,SC,Cross-industry,Healthcare Practitioners and Technical Occupations,35541,46631,61710,81330,128316
+695,UT,Cross-industry,Educational Instruction and Library Occupations,27152,36241,50050,68483,84637
+696,US,Other Services (except Public Administration),Air Transportation Workers,48586,60290,81124,101302,134643
+697,VT,Cross-industry,Healthcare Support Occupations,27552,29326,33095,38055,47495
+698,US,"Arts, Entertainment, and Recreation",Other Healthcare Support Occupations,22695,26604,30160,38436,50845
+699,US,Educational Services,Management Occupations,39730,54612,75537,102690,149936
+700,US,Real Estate and Rental and Leasing,Personal Care and Service Occupations,19650,23628,30040,41259,53704
+701,AZ,Cross-industry,Protective Service Occupations,27927,35437,48138,63809,79727
+702,US,Manufacturing,Mathematical Science Occupations,51896,65621,100681,131938,153644
+703,NY,Cross-industry,Construction and Extraction Occupations,35828,46200,65159,87274,123516
+704,US,Manufacturing,Physical Scientists,49419,63238,81218,108124,137809
+705,RI,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,25686,28630,33685,38345,47368
+706,US,Wholesale Trade,Personal Appearance Workers,31247,36064,45170,55992,61154
+707,US,"Professional, Scientific, and Technical Services",Healthcare Support Occupations,28746,34013,37993,45436,59169
+708,CT,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",34650,45182,70758,95459,142309
+709,US,Health Care and Social Assistance,Healthcare Diagnosing or Treating Practitioners,47168,58801,76454,113170,157713
+710,US,"Arts, Entertainment, and Recreation",Supervisors of Food Preparation and Serving Workers,22962,26372,29844,38678,51112
+711,ID,Cross-industry,"Farming, Fishing, and Forestry Occupations",22469,28270,31228,37831,50227
+712,US,Retail Trade,Social Scientists and Related Workers,46349,80664,104586,123048,153037
+713,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Supervisors of Personal Care and Service Workers,34772,43989,57565,78760,97740
+714,US,Administrative and Support and Waste Management and Remediation Services,Other Healthcare Practitioners and Technical Occupations,28311,37244,52032,61964,84098
+715,US,"Mining, Quarrying, and Oil and Gas Extraction",Financial Clerks,29177,35320,43928,53517,64856
+716,US,Cross-industry,Life Scientists,54527,62058,80250,107835,139071
+717,AZ,Cross-industry,Production Occupations,28922,33872,39812,51037,65554
+718,US,Wholesale Trade,Engineers,60300,75797,97456,123558,153216
+719,LA,Cross-industry,Management Occupations,39040,58947,83230,124480,166742
+720,US,Administrative and Support and Waste Management and Remediation Services,Occupational Health and Safety Specialists and Technicians,38564,48232,65718,87204,112368
+721,NY,Cross-industry,Personal Care and Service Occupations,25606,28052,30392,40476,53358
+722,US,Other Services (except Public Administration),Food Processing Workers,24232,29453,32529,39282,47828
+723,RI,Cross-industry,Personal Care and Service Occupations,23286,27046,30222,41457,56028
+724,WY,Cross-industry,Healthcare Practitioners and Technical Occupations,34409,51856,69296,88724,131119
+725,US,Accommodation and Food Services,Healthcare Diagnosing or Treating Practitioners,48834,56438,77103,90144,114218
+726,NC,Cross-industry,Healthcare Support Occupations,19248,22936,28036,34256,40066
+727,TN,Cross-industry,"Installation, Maintenance, and Repair Occupations",29717,37468,48443,62388,79059
+728,US,Wholesale Trade,Water Transportation Workers,29833,36521,48152,64677,84649
+729,US,Finance and Insurance,Building Cleaning and Pest Control Workers,24242,30480,39644,68797,78503
+730,US,Information,Supervisors of Transportation and Material Moving Workers,37248,45283,60120,75556,94604
+731,US,Administrative and Support and Waste Management and Remediation Services,Religious Workers,24426,27816,35602,49436,72338
+732,ME,Cross-industry,Transportation and Material Moving Occupations,28867,31132,37649,53087,77207
+733,US,"Professional, Scientific, and Technical Services","Life, Physical, and Social Science Technicians",29294,33748,46866,62274,81598
+734,TX,Cross-industry,Personal Care and Service Occupations,17854,21196,25246,32744,47588
+735,US,Information,Architecture and Engineering Occupations,51516,69600,91394,124396,148568
+736,US,Administrative and Support and Waste Management and Remediation Services,Supervisors of Food Preparation and Serving Workers,23198,28750,31015,38288,46720
+737,US,Information,Communications Equipment Operators,27122,31631,38881,51426,63256
+738,NV,Cross-industry,Production Occupations,23826,29850,38008,51192,65611
+739,MS,Cross-industry,Office and Administrative Support Occupations,22362,28178,34984,45610,58716
+740,US,Educational Services,Supervisors of Construction and Extraction Workers,35935,48951,61411,80764,99093
+741,NM,Cross-industry,Business and Financial Operations Occupations,37596,50492,71859,98960,138995
+742,US,"Professional, Scientific, and Technical Services","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",35268,43686,53846,70460,85336
+743,US,Other Services (except Public Administration),Supervisors of Personal Care and Service Workers,27690,34053,42613,59220,79905
+744,US,Other Services (except Public Administration),"Farming, Fishing, and Forestry Occupations",26372,29496,31607,38005,50058
+745,US,"Agriculture, Forestry, Fishing and Hunting","Life, Physical, and Social Science Technicians",31772,39178,48292,62177,76352
+746,US,Other Services (except Public Administration),Law Enforcement Workers,31734,39593,49990,63733,80996
+747,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Construction and Extraction Workers,57872,72137,93659,116325,146852
+748,CT,Cross-industry,Production Occupations,27751,31829,43401,59773,83907
+749,US,Construction,Other Food Preparation and Serving Related Workers,22478,25354,31443,37444,40755
+750,US,Other Services (except Public Administration),Other Personal Care and Service Workers,21401,24484,29973,36748,47220
+751,US,Retail Trade,Entertainment Attendants and Related Workers,18924,21844,26305,30193,36655
+752,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Construction Trades Workers,35025,44544,59930,81655,101546
+753,US,Utilities,"Life, Physical, and Social Science Technicians",47024,57191,72642,88616,98728
+754,MD,Cross-industry,"Farming, Fishing, and Forestry Occupations",28400,29656,34999,44859,58656
+755,US,Health Care and Social Assistance,Tour and Travel Guides,23642,26086,32058,40991,50704
+756,RI,Cross-industry,Healthcare Practitioners and Technical Occupations,41284,54272,86240,111633,174299
+757,NJ,Cross-industry,Business and Financial Operations Occupations,45824,58989,76495,101110,129698
+758,KS,Cross-industry,Sales and Related Occupations,19546,22968,29123,47238,78548
+759,AR,Cross-industry,Healthcare Support Occupations,22643,23648,26365,30599,38300
+760,US,Educational Services,Food Processing Workers,20252,29000,35736,45211,57954
+761,US,Other Services (except Public Administration),Supervisors of Sales Workers,30114,38098,48766,65639,89915
+762,US,Other Services (except Public Administration),"Textile, Apparel, and Furnishings Workers",25577,26948,29041,31566,39031
+763,IA,Cross-industry,Office and Administrative Support Occupations,23544,29309,36889,46726,59560
+764,MA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",33562,41820,55697,86275,112900
+765,US,Wholesale Trade,Building and Grounds Cleaning and Maintenance Occupations,23574,28830,34975,44220,52850
+766,US,Wholesale Trade,Animal Care and Service Workers,47052,59292,71092,82326,89927
+767,HI,Cross-industry,Legal Occupations,39726,50880,79044,109013,163260
+768,US,"Professional, Scientific, and Technical Services",Occupational Therapy and Physical Therapist Assistants and Aides,30032,36335,48833,60638,78351
+769,UT,Cross-industry,"Farming, Fishing, and Forestry Occupations",19691,25450,31404,38800,49442
+770,US,Construction,Secretaries and Administrative Assistants,26762,32339,40553,49118,59315
+771,US,Management of Companies and Enterprises,Secretaries and Administrative Assistants,28986,34448,40864,50838,63086
+772,SC,Cross-industry,Computer and Mathematical Occupations,43680,57647,80038,107532,134422
+773,US,"Professional, Scientific, and Technical Services",Business Operations Specialists,34561,45662,61132,79497,103839
+774,NH,Cross-industry,Office and Administrative Support Occupations,27392,30366,38103,46843,58974
+775,KS,Cross-industry,Legal Occupations,36743,46966,63592,110658,186458
+776,IA,Cross-industry,Construction and Extraction Occupations,29234,35663,43988,51569,65492
+777,US,"Arts, Entertainment, and Recreation",Plant and System Operators,32750,39862,55945,74252,90000
+778,US,Cross-industry,Personal Appearance Workers,25715,29951,34397,40865,48871
+779,TN,Cross-industry,Healthcare Practitioners and Technical Occupations,34895,47182,62326,80725,127807
+780,AR,Cross-industry,"Installation, Maintenance, and Repair Occupations",28904,33012,44619,57336,73156
+781,US,Other Services (except Public Administration),Water Transportation Workers,31472,40000,53556,69855,90697
+782,US,Accommodation and Food Services,Food Processing Workers,23276,28106,30333,37910,53038
+783,MN,Cross-industry,Food Preparation and Serving Related Occupations,24474,27106,29559,37198,49345
+784,NC,Cross-industry,Educational Instruction and Library Occupations,22661,34440,48501,62390,79058
+785,OK,Cross-industry,Healthcare Practitioners and Technical Occupations,31051,41436,60900,84405,127108
+786,AZ,Cross-industry,Architecture and Engineering Occupations,48628,62536,80960,104000,131390
+787,US,Information,Healthcare Practitioners and Technical Occupations,41607,53989,76946,99258,125463
+788,HI,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,26600,28438,31366,39103,46564
+789,US,Retail Trade,Metal Workers and Plastic Workers,29783,37102,46999,58084,72508
+790,US,Accommodation and Food Services,"Arts, Design, Entertainment, Sports, and Media Occupations",26491,34381,48105,69432,102652
+791,US,Retail Trade,Health Technologists and Technicians,26523,29585,38395,53329,69062
+792,US,Educational Services,Other Healthcare Practitioners and Technical Occupations,28726,39091,54494,71495,88716
+793,OR,Cross-industry,Food Preparation and Serving Related Occupations,30014,30447,34600,44710,59141
+794,US,Other Services (except Public Administration),Art and Design Workers,27704,35633,48500,69907,97900
+795,NJ,Cross-industry,"Life, Physical, and Social Science Occupations",39833,52639,73741,102194,138870
+796,US,Transportation and Warehousing,"Sales Representatives, Services",41620,58057,77295,102007,132536
+797,TX,Cross-industry,"Installation, Maintenance, and Repair Occupations",29039,36366,46783,60176,76314
+798,US,Manufacturing,Retail Sales Workers,23928,28946,34972,45807,59516
+799,US,"Arts, Entertainment, and Recreation",Supervisors of Personal Care and Service Workers,26243,30365,37197,46667,64899
+800,KS,Cross-industry,Healthcare Support Occupations,19045,22707,27050,33501,39842
+801,US,Manufacturing,Food and Beverage Serving Workers,19220,20528,25318,32193,40162
+802,ID,Cross-industry,Community and Social Service Occupations,28472,36332,46563,60022,71050
+803,US,Wholesale Trade,Other Educational Instruction and Library Occupations,27894,33716,44175,54846,67531
+804,US,Management of Companies and Enterprises,Sales and Related Occupations,32331,40529,58552,76654,96962
+805,US,"Mining, Quarrying, and Oil and Gas Extraction",Supervisors of Transportation and Material Moving Workers,39770,49110,61776,77412,90422
+806,US,Administrative and Support and Waste Management and Remediation Services,"Other Installation, Maintenance, and Repair Occupations",26659,31574,39489,49208,66620
+807,US,"Agriculture, Forestry, Fishing and Hunting",Top Executives,35076,45585,64672,94368,141845
+808,US,"Professional, Scientific, and Technical Services",Architecture and Engineering Occupations,50382,64104,94638,126154,159905
+809,OK,Cross-industry,Computer and Mathematical Occupations,43161,57338,77990,106448,136134
+810,US,"Agriculture, Forestry, Fishing and Hunting","Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",34034,40750,51758,65360,84868
+811,US,Utilities,Secretaries and Administrative Assistants,30740,37346,52470,66254,85662
+812,US,Utilities,"Architects, Surveyors, and Cartographers",72900,99359,125193,135611,154343
+813,US,Administrative and Support and Waste Management and Remediation Services,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",29995,34692,44924,59128,81127
+814,WY,Cross-industry,Business and Financial Operations Occupations,37456,48630,63242,87962,119395
+815,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Librarians, Curators, and Archivists",34882,40944,57246,88178,110540
+816,US,Real Estate and Rental and Leasing,Other Production Occupations,25602,30282,38017,48315,61687
+817,US,"Professional, Scientific, and Technical Services",Physical Scientists,47856,61231,81428,111131,143926
+818,US,"Arts, Entertainment, and Recreation","Sales Representatives, Services",33576,40232,54807,80750,114454
+819,PA,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",23904,30867,41125,61482,84580
+820,US,Management of Companies and Enterprises,Entertainment Attendants and Related Workers,19778,23112,28602,33928,44279
+821,US,Accommodation and Food Services,Retail Sales Workers,19719,23130,28644,32830,40243
+822,SD,Cross-industry,Transportation and Material Moving Occupations,25180,29528,37228,45649,57881
+823,NH,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",29285,33731,43679,56735,77222
+824,US,Administrative and Support and Waste Management and Remediation Services,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",33208,43305,59642,86042,124716
+825,DC,Cross-industry,Healthcare Support Occupations,32431,36809,41318,50535,66063
+826,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Advertising, Marketing, Promotions, Public Relations, and Sales Managers",63040,83191,114106,150752,198206
+827,KS,Cross-industry,Management Occupations,42215,56845,85918,119250,162500
+828,US,Health Care and Social Assistance,"Entertainers and Performers, Sports and Related Workers",28230,40746,54710,76364,99718
+829,VA,Cross-industry,Healthcare Practitioners and Technical Occupations,35551,51295,67884,87214,129992
+830,US,Wholesale Trade,Supervisors of Personal Care and Service Workers,31964,39307,45271,67098,86964
+831,US,Management of Companies and Enterprises,Media and Communication Workers,37960,48652,67984,89189,125504
+832,DE,Cross-industry,Transportation and Material Moving Occupations,24632,29886,37707,48569,63082
+833,US,"Agriculture, Forestry, Fishing and Hunting",Agricultural Workers,25065,28710,33070,38749,48771
+834,US,Management of Companies and Enterprises,Supervisors of Building and Grounds Cleaning and Maintenance Workers,36600,46350,57842,69050,88775
+835,AZ,Cross-industry,Business and Financial Operations Occupations,44168,55406,71334,94382,118796
+836,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",Production Occupations,32019,40176,53249,68282,83859
+837,US,Finance and Insurance,Other Production Occupations,28182,32835,41970,56102,67516
+838,US,Manufacturing,Other Food Preparation and Serving Related Workers,23053,26484,31100,37126,42013
+839,US,Administrative and Support and Waste Management and Remediation Services,Other Personal Care and Service Workers,20622,24073,29461,34814,44483
+840,US,"Mining, Quarrying, and Oil and Gas Extraction",Air Transportation Workers,52980,76220,103717,137862,164980
+841,AK,Cross-industry,Office and Administrative Support Occupations,30091,36774,46524,59707,78401
+842,AK,Cross-industry,Healthcare Support Occupations,29211,29520,30724,37044,47744
+843,US,"Mining, Quarrying, and Oil and Gas Extraction",Material Moving Workers,28857,30836,37966,46566,51343
+844,US,Cross-industry,Plant and System Operators,35374,44405,57623,74314,88186
+845,US,Utilities,Material Moving Workers,27900,31808,39796,51582,69474
+846,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Supervisors of Installation, Maintenance, and Repair Workers",45865,57453,74279,92070,113266
+847,US,Educational Services,Occupational Health and Safety Specialists and Technicians,50558,58680,73242,87764,104166
+848,US,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)","Textile, Apparel, and Furnishings Workers",24000,34976,44631,52212,68508
+849,US,Administrative and Support and Waste Management and Remediation Services,Legal Support Workers,31136,34973,42612,56963,79622
+850,US,Utilities,Legal Support Workers,55288,73992,91306,106810,125392
+851,US,Management of Companies and Enterprises,Health Technologists and Technicians,36604,38213,47860,61316,80291
+852,US,Manufacturing,Engineers,56508,69349,88448,112302,142296
+853,US,"Mining, Quarrying, and Oil and Gas Extraction",Healthcare Diagnosing or Treating Practitioners,50020,66264,101498,120270,146105
+854,US,Retail Trade,Cooks and Food Preparation Workers,21284,24671,29323,34214,39938
+855,US,Educational Services,Supervisors of Protective Service Workers,36095,43876,54892,67023,90552
+856,US,Retail Trade,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",53556,69503,94651,126571,175914
+857,US,"Mining, Quarrying, and Oil and Gas Extraction",Business Operations Specialists,48017,57521,77470,105665,127810
+858,US,"Arts, Entertainment, and Recreation",Supervisors of Construction and Extraction Workers,37702,45907,66042,89708,116531
+859,US,"Professional, Scientific, and Technical Services",Supervisors of Office and Administrative Support Workers,40162,47284,60148,80830,102729
+860,IL,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",28319,36417,50444,75643,113210
+861,US,Accommodation and Food Services,Supervisors of Transportation and Material Moving Workers,35928,43777,55600,67793,80072
+862,US,Management of Companies and Enterprises,Personal Care and Service Occupations,21845,28129,36462,50691,68650
+863,US,Construction,"Librarians, Curators, and Archivists",34492,42286,53600,73596,101782
+864,US,Retail Trade,Other Protective Service Workers,23580,27011,32811,39007,46575
+865,US,Accommodation and Food Services,"Supervisors of Farming, Fishing, and Forestry Workers",32444,34675,41114,48870,67874
+866,US,Real Estate and Rental and Leasing,Other Office and Administrative Support Workers,24885,29859,37349,54535,59788
+867,US,Accommodation and Food Services,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",22456,26505,31068,37211,44996
+868,US,Finance and Insurance,Other Office and Administrative Support Workers,25790,31474,38276,55373,81773
+869,US,Wholesale Trade,"Farming, Fishing, and Forestry Occupations",28892,33152,39526,47820,58811
+870,US,"Professional, Scientific, and Technical Services","Entertainers and Performers, Sports and Related Workers",27020,48930,68088,95229,125966
+871,NE,Cross-industry,Office and Administrative Support Occupations,28518,32388,40682,53013,68813
+872,OR,Cross-industry,"Farming, Fishing, and Forestry Occupations",29477,31233,33571,42898,61056
+873,US,Accommodation and Food Services,Engineers,47996,67566,86899,111424,142834
+874,WI,Cross-industry,Personal Care and Service Occupations,21127,22652,26494,34561,47268
+875,US,Information,Other Protective Service Workers,26858,31921,37775,48076,56438
+876,US,Health Care and Social Assistance,Computer and Mathematical Occupations,46858,62647,92094,121209,156106
+877,US,"Professional, Scientific, and Technical Services",Engineers,54518,68541,88005,112377,143939
+878,DE,Cross-industry,Office and Administrative Support Occupations,28278,32846,41564,52336,63162
+879,IN,Cross-industry,Management Occupations,42556,60572,88460,127998,184298
+880,US,Real Estate and Rental and Leasing,Supervisors of Office and Administrative Support Workers,36870,43204,53679,67682,81322
+881,HI,Cross-industry,Healthcare Support Occupations,28510,29520,34138,38936,47598
+882,US,Manufacturing,"Forest, Conservation, and Logging Workers",30978,35648,39384,50947,57072
+883,US,"Arts, Entertainment, and Recreation","Textile, Apparel, and Furnishings Workers",20761,23956,29443,33342,41841
+884,US,Management of Companies and Enterprises,Supervisors of Office and Administrative Support Workers,39063,48958,61615,79158,97950
+885,WI,Cross-industry,"Installation, Maintenance, and Repair Occupations",32606,40280,52103,67602,80146
+886,US,Accommodation and Food Services,Legal Support Workers,32342,39500,48778,61177,83778
+887,OH,Cross-industry,"Installation, Maintenance, and Repair Occupations",30292,37788,48622,62477,78931
+888,OR,Cross-industry,Sales and Related Occupations,29426,32953,42713,61122,85552
+889,US,Utilities,Financial Specialists,56108,73307,93090,117546,147768
+890,US,"Professional, Scientific, and Technical Services",Plant and System Operators,40580,50846,59402,78378,112067
+891,US,Manufacturing,Other Office and Administrative Support Workers,25884,30210,37434,51616,64054
+892,OK,Cross-industry,Business and Financial Operations Occupations,36840,47945,65383,90208,117324
+893,ME,Cross-industry,Office and Administrative Support Occupations,29402,36351,45777,59488,78643
+894,US,Finance and Insurance,Media and Communication Equipment Workers,33963,42698,56016,75169,98814
+895,US,Construction,Health Technologists and Technicians,30438,34748,41416,54359,66050
+896,US,Utilities,Supervisors of Sales Workers,52128,74366,99051,126191,137542
+897,VA,Cross-industry,Personal Care and Service Occupations,21127,22652,26494,34561,47268
+898,MT,Cross-industry,Educational Instruction and Library Occupations,23271,30858,47516,60222,77418
+899,US,Finance and Insurance,Office and Administrative Support Occupations,29576,36604,47510,59268,74478
+900,US,"Arts, Entertainment, and Recreation",Supervisors of Sales Workers,30968,36704,47731,72036,101902
+901,US,Administrative and Support and Waste Management and Remediation Services,"Sales Representatives, Services",32982,39804,53511,79571,111664
+902,MS,Cross-industry,Personal Care and Service Occupations,18732,21071,24391,30735,45000
+903,OR,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,29954,31917,37167,46070,53607
+904,US,Administrative and Support and Waste Management and Remediation Services,Other Transportation Workers,21617,24418,29210,31662,38985
+905,US,Manufacturing,"Helpers, Construction Trades",30091,35442,44459,49252,58738
+906,US,Finance and Insurance,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",28056,30505,42328,63040,73148
+907,NM,Cross-industry,Healthcare Support Occupations,22276,23943,28184,31344,39023
+908,US,Wholesale Trade,Healthcare Support Occupations,25217,29355,31662,38440,44214
+909,US,Finance and Insurance,"Counselors, Social Workers, and Other Community and Social Service Specialists",32704,38914,49293,62418,81140
+910,US,Retail Trade,"Farming, Fishing, and Forestry Occupations",24576,28254,30990,37416,49094
+911,US,Educational Services,Grounds Maintenance Workers,22564,27190,33341,39694,50232
+912,LA,Cross-industry,Healthcare Practitioners and Technical Occupations,30415,40280,60462,81990,126002
+913,SC,Cross-industry,Business and Financial Operations Occupations,37800,49022,67318,94813,124476
+914,US,Manufacturing,Personal Care and Service Occupations,20023,25190,31593,42740,51803
+915,US,"Professional, Scientific, and Technical Services",Financial Clerks,29454,35786,42131,51842,61582
+916,AK,Cross-industry,Building and Grounds Cleaning and Maintenance Occupations,28402,29536,31148,39166,50054
+917,US,Information,Protective Service Occupations,24552,29064,37687,57082,73683
+918,US,Retail Trade,Supervisors of Food Preparation and Serving Workers,23604,29075,31776,39322,49483
+919,DE,Cross-industry,Production Occupations,28082,30206,37817,48515,62108
+920,VA,Cross-industry,"Installation, Maintenance, and Repair Occupations",32590,40248,52077,67530,80062
+921,US,Utilities,Other Educational Instruction and Library Occupations,34121,48647,70587,90517,111540
+922,US,"Arts, Entertainment, and Recreation",Community and Social Service Occupations,28964,34024,43282,56255,75738
+923,WI,Cross-industry,"Arts, Design, Entertainment, Sports, and Media Occupations",26846,34530,50169,71773,94995
+924,PA,Cross-industry,Computer and Mathematical Occupations,43340,58898,79745,106284,134288
+925,US,Construction,Other Protective Service Workers,26257,30423,37879,52295,63644
